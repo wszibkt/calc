@@ -1,0 +1,11 @@
+{
+  "operation": "matrix_add",
+  "matrixA": [
+    [1, 2],
+    [3, 4]
+  ],
+  "matrixB": [
+    [5, 6],
+    [7, 8]
+  ]
+}
